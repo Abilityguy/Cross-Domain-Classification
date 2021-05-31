@@ -14,5 +14,5 @@ These observations were made with the photo data as the source domain and the sk
 
 ## Discussion
 
-- The high threshold (0.95) on the weighted cross entropy loss could be a tunable hyperparameter
+- The threshold (0.95) on the weighted cross entropy loss could be a tunable hyperparameter
 - The source dataset has 1670 images and the target dataset has 3929 images. Additional data augmentation on the dataset might improve the performance of the model
